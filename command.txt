@@ -1,2 +1,5 @@
 Bydefault, in github main branch name is MAIN
 mala local repo create karaychi kahi garaj nhiye 
+fetch: multiple branch sync karne
+pull: Ek branch sync karne
+clone: entire repository locally crreate karne
